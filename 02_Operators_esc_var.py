@@ -1,7 +1,6 @@
 """Today(2 september 2025) we will discuss some baisc to advanced python programs based on (Syntax + Input/Output) using only:
 - operators
 - escape sequence characters
-- variables
 """
 #Q1:Store your college name in a variable and print it inside double quotes using escape sequence. 
 #Example → "Government Polytechnic Mawana Khurd"
