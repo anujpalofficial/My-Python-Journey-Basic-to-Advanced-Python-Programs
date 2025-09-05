@@ -85,7 +85,7 @@ else:
     print("its not a palindrome.")    
 
 #Q14: Take an email address and extract the username (before @).
-Example: anuj123@gmail.com → anuj123
+#Example: anuj123@gmail.com → anuj123
 email = input("Enter your email address.")
 print(email[0:email.find("@")])
 
